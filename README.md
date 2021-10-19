@@ -1,5 +1,5 @@
 # md5check
-> usage:
+usage:
 calculate md5sum e.g. :
 python md5check.py sum -p /home/space/projects/xxx
 -p : the path to calculate md5sum\n
